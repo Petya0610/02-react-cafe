@@ -23,5 +23,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "src/components/CafeInfo"]
+  "include": ["src", "src/components/CafeInfo", "src/components/App/App.tsx"]
 }
